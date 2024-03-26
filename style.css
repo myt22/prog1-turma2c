@@ -11,7 +11,7 @@
     padding: 24px 0;
 }
 .cabeçalho_imagem{
-    width:10%;
+    width:2%;
 }
 .cabeçalho_lista{
     display: inline-block;
@@ -22,4 +22,7 @@
     background-image: linear-gradient(#424e61, #4ebfe9);
     color: white;
     display: flex;
+}
+.escola-imagem{
+    width: 4%;
 }
